@@ -1,0 +1,6 @@
+{
+  "name": "PaperNote",
+  "description": "논문 검색부터 연구주제 발견까지 - 논문 검색·저장, AI 구조화 요약, 다자 비교, Research Gap 발견 및 연구주제 제안 연구 워크플로우 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
